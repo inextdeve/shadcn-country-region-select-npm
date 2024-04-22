@@ -19,6 +19,8 @@
     "country select",
     "region select"
   ],
+  "homepage": "https://github.com/inextdeve/shadcn-country-region-select",
+  "repository": {"url": "https://github.com/inextdeve/shadcn-country-region-select"},
   "devDependencies": {
     "@rollup/plugin-commonjs": "^25.0.3",
     "@rollup/plugin-node-resolve": "^15.1.0",
