@@ -5,7 +5,7 @@ import {
   SelectTrigger,
   SelectValue,
   //@ts-ignore
-} from "@/ui/select";
+} from "@/components/ui/select";
 import { filterCountries, filterRegions } from "../../lib/helpers";
 import { CountryRegion, Region } from "../../types/country-region";
 //@ts-ignore
