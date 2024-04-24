@@ -38,7 +38,7 @@ function App() {
 
 | Prop            | Type                  | Description                                           |
 | --------------- | --------------------- | ----------------------------------------------------- |
-| classname       | <code>object</code>   | configuration object for the manifest                 |
+| classname       | <code>object</code>   | accept a class string                                 |
 | onChange        | <code>func</code>     | callback function fired when the select value changed |
 | placeholder     | <code>string</code>   | placeholder value, default "Country"                  |
 | priorityOptions | <code>string[]</code> | Array of countries prioritized in the select list     |
